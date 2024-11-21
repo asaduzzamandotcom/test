@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.cursor{
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  box-shadow: 10cm;
+  border: 2px solid rgb(107, 63, 63);
+  position: absolute;
+}
+.cursorTwo{
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  box-shadow: 10cm;
+  border: 2px solid purple;
+  position: relative;
+}
+.cursorThree{
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  box-shadow: 10cm;
+  border: 2px solid yellow;
+  position: relative;
+}
+.cursorFour{
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  box-shadow: 10cm;
+  border: 2px solid green;
+  position: relative;
+}
+.cursorFive{
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  box-shadow: 10cm;
+  border: 2px solid red;
+  position: relative;
+}
